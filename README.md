@@ -53,9 +53,6 @@ Contributing:
 -------------
 Contributions to the Tic Tac Toe game project are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the project's repository.
 
-License:
---------
-The Tic Tac Toe game is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to modify and distribute the code for personal or commercial purposes.
 
 Acknowledgements:
 -----------------
@@ -63,6 +60,6 @@ The Tic Tac Toe game is developed using Android Studio and utilizes the Android 
 
 Author:
 -------
-This Tic Tac Toe game project is developed by [Your Name]. Feel free to contact me at [Your Email Address] for any questions or inquiries.
+This Tic Tac Toe game project is developed by Yash Gupta. Feel free to contact me at info.guptayash@gmail.comfor any questions or inquiries.
 
 Enjoy playing Tic Tac Toe on your Android device!
